@@ -1,1 +1,0 @@
-execute if entity @e[type=item,distance=..1,nbt={Item:{id:"minecraft:diamond_block"}}] run function efficient:work.second
